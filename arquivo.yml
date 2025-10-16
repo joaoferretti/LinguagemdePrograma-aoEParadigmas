@@ -1,0 +1,19 @@
+
+---
+
+## 💻 Tecnologias Utilizadas
+- **Node.js**  
+- **Express.js**  
+- **Socket.IO** (comunicação em tempo real)  
+- **React.js (TypeScript)**  
+- **Nodemon + ts-node**  
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### 🔧 Backend (Servidor)
+```bash
+cd backend
+npm install
+npm start

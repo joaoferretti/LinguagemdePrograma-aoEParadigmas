@@ -3,7 +3,7 @@
 **Disciplina:** Linguagem de Programação e Paradigmas  
 **Professor:** Esp. Ademar Perfoll Junior  
 **Curso:** Sistemas de Informação  
-**Aluno:** [@joaoppiresferretti](https://github.com/joaoppiresferretti)
+**Aluno:** [@joaoferretti](https://github.com/joaoferretti)
 
 ---
 
