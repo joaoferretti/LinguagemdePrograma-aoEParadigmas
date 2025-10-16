@@ -4,7 +4,6 @@ Trabalho desenvolvido para a disciplina **Linguagem de Programação e Paradigma
 Professor: **Esp. Ademar Perfoll Junior**  
 Curso: **Sistemas de Informação**  
 Data de entrega: 13/10/2025  
-Desenvolvido por: **@teu_usuario_github**
 
 ---
 
